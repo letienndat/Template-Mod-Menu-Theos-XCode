@@ -1,7 +1,7 @@
 # Template-Mod-Menu-Theos-XCode
 
-<img src="previews/preview_1.png" height="500">
-<img src="previews/preview_2.png" height="500">
+<img src="previews/preview_1.png" width="1000">
+<img src="previews/preview_2.png" width="1000">
 
 ---
 
